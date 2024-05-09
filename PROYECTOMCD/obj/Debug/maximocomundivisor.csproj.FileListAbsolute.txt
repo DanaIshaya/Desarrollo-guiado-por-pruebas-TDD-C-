@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\bin\Debug\PROYECTOMCD.dll
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\bin\Debug\PROYECTOMCD.pdb
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\obj\Debug\maximocomundivisor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\obj\Debug\maximocomundivisor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\obj\Debug\PROYECTOMCD.dll
+C:\Users\User\source\repos\SolMCD\PROYECTOMCD\obj\Debug\PROYECTOMCD.pdb
